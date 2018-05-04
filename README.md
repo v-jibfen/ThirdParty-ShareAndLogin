@@ -1,2 +1,2 @@
 # ThirdParty-ShareAndLogin
-The arrangement of the third party share and Login.
+微信 ,QQ,微博第三方分享与登录
